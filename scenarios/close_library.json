@@ -1,0 +1,8 @@
+{
+  "id": "close_library",
+  "title": "Close the neighborhood library for renovations (6 months)",
+  "description": "The city announces the branch will shut next month. A mobile van may come twice a week, details unclear.",
+  "stress_delta": 0.12,
+  "novelty_delta": 0.08,
+  "challenge_delta": 0.05
+}

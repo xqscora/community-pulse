@@ -1,0 +1,8 @@
+{
+  "id": "internet_outage",
+  "title": "Planned regional internet outage (72 hours)",
+  "description": "Fiber maintenance; cell data congested. Schools send paper packets; remote work discouraged.",
+  "stress_delta": 0.15,
+  "novelty_delta": 0.1,
+  "challenge_delta": 0.12
+}

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.python-version
+
+# Caching
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Run artifacts (gitignore intermediate JSON dumps)
+_live_test.json
+_*.log
+_*.json
+*.bak
+
+# Cover preview drafts
+cover_v*.png
+!cover.png
+
+# Streamlit local
+.streamlit/secrets.toml
