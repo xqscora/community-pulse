@@ -52,7 +52,7 @@
 
 ### 2:45 – 3:00 · Close
 **VISUAL:** Cora's face on camera, soft natural light, calm.
-**TEXT OVERLAY (lower third):** "Community Pulse · Apache 2.0 · github.com/corazeng/community-pulse"
+**TEXT OVERLAY (lower third):** "Community Pulse · Apache 2.0 · github.com/xqscora/community-pulse"
 **VO:**
 > "Community Pulse runs on a single laptop, no cloud, no data leaving the room. The whole engine is open source. We built it because the people most affected by policy are the ones least represented in the rooms where policy is decided. Gemma 4 helps us put a small population back in that room."
 **FINAL FRAME:** Logo + URL + "Made for the Gemma 4 Good Hackathon · 2026."

@@ -80,7 +80,7 @@ What we did **not** ship in this hackathon: a PAT-personalised prompt embedding 
 
 **Project links** (attach in writeup):
 
-- Public GitHub: github.com/corazeng/community-pulse (Apache 2.0)
+- Public GitHub: github.com/xqscora/community-pulse (Apache 2.0)
 - Live Demo (Streamlit Cloud): community-pulse.streamlit.app
 - 3-min video: youtu.be/XXXXXXX
 - Companion paper (PAT, Frontiers in Psychology, accepted): preprint DOI

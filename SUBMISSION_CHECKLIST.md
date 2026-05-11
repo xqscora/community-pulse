@@ -11,7 +11,7 @@
 |---|----------|--------|-------|------|
 | 1 | Kaggle Writeup (≤1500 words) | ✅ v0.1 drafted | Cora | `WRITEUP_v0.1.md` |
 | 2 | YouTube video (≤3 min) | 🟡 script v0.1 | Cora | `VIDEO_SCRIPT_v0.1.md` |
-| 3 | Public Code Repository | 🟡 needs publish | Cora | `github.com/corazeng/community-pulse` (TODO) |
+| 3 | Public Code Repository | 🟡 needs publish | Cora | `github.com/xqscora/community-pulse` (TODO) |
 | 4 | Live Demo URL | 🟡 needs deploy | Cora | Streamlit Cloud or HuggingFace Space |
 | 5 | Cover image | ⬜ not started | Cora | TBD |
 | 6 | Track selection | ⬜ pick at submit | Cora | Global Resilience |
@@ -32,7 +32,7 @@
 - [ ] Capture metric tables and per-agent narratives for the video
 
 ### Day 3 (May 10)
-- [ ] Create public GitHub repo `corazeng/community-pulse`
+- [ ] Create public GitHub repo `xqscora/community-pulse`
   - Apache 2.0 LICENSE
   - README badge: `Made for Gemma 4 Good Hackathon 2026`
   - Strip any accidental private notes from `paper-PAT/` parent

@@ -37,7 +37,7 @@ Paste the full content of `WRITEUP_v0.1.md` (§1 through §6 plus Project Links 
 
 ### External links field
 ```
-GitHub:    https://github.com/corazeng/community-pulse
+GitHub:    https://github.com/xqscora/community-pulse
 Live demo: https://community-pulse.streamlit.app
 Video:     https://youtu.be/XXXXXXX
 Paper:     https://arxiv.org/abs/XXXX.XXXXX  (PAT preprint — fill once arXiv ID is final)
@@ -55,7 +55,7 @@ Paper:     https://arxiv.org/abs/XXXX.XXXXX  (PAT preprint — fill once arXiv I
 
 ### Deploy steps
 1. Go to https://share.streamlit.io/ → "New app"
-2. Connect GitHub account `corazeng` (one-click OAuth)
+2. Connect GitHub account `xqscora` (one-click OAuth)
 3. Pick repo `community-pulse`, branch `main`, main file `app.py`
 4. Advanced settings:
    - Python version: **3.11**
@@ -93,7 +93,7 @@ real consultation, runnable entirely on a laptop with no data leaving the device
 Submitted to the Gemma 4 Good Hackathon 2026.
 Tracks: Impact / Global Resilience · Special Tech / Ollama.
 
-— Code (Apache 2.0): https://github.com/corazeng/community-pulse
+— Code (Apache 2.0): https://github.com/xqscora/community-pulse
 — Live demo:         https://community-pulse.streamlit.app
 — Writeup:           [Kaggle Writeup URL]
 — Companion paper:   PAT (Personality as Trajectory), Frontiers in Psychology (accepted, 2026)
