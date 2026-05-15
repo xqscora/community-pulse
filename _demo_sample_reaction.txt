@@ -1,0 +1,31 @@
+Agent: Maya Chen (high school student)
+Drives: {'curiosity': 0.742, 'social': 0.37325, 'achievement': 0.5175, 'expression': 0.4750000000000001, 'safety': 0.105, 'autonomy': 0.339, 'fairness': 0.33499999999999996}
+
+Policy: Close public library
+
+--- Reaction (qwen2.5:1.5b, will use gemma3:4b in prod) ---
+**Attention Capture:**
+
+I'm immediately drawn to the title of this policy announcement—“Close public library.” The stark, ominous tone hits me hard. My dopamine levels plummet as I feel a wave of anxiety wash over me. This isn’t just about losing access; it’s about the future that feels slipping through my fingers.
+
+**Immediate Emotional Reaction:**
+
+My heart races and my palms sweat slightly. There's an underlying sense of disappointment mixed with dread. It’s like being handed back a favorite toy you’ve been begging for weeks only to have someone take it away on the same day.
+
+**Concrete Action:**
+
+I feel compelled to do something—anything—to stop this library closure, but I’m not sure exactly what. On impulse, I decide to reach out immediately to the town council and express my distress about losing such a valuable resource. This is the first concrete step that seems logical in response to the announcement.
+
+**Focus on Values:**
+
+The values involved here are closely tied to safety and autonomy—both values strongly present in L2. The library has been an essential public space, providing quiet study areas for students like me who might prefer it over a fast-food joint after school. I feel that my own experience of the library’s benefits is crucial in making this policy impact noticeable.
+
+**Recovery Speed:**
+
+Even as I think about the library, my recovery speed seems to slow down. The worry feels real and immediate, pulling at different parts of my cognitive fabric—my brain struggles to reconcile what’s happening with any sense of normalcy or even nostalgia I might have for it over 15 years.
+
+**Sensory Threshold:**
+
+The physical stimuli around me seem heightened too; the library doors feel heavier than usual as if they’re closing on a chapter in life. It’s like the whole world is waiting to see how this change will shake my foundation and rippled through my personal values, whether that involves adjusting my plans for future internships or reassessing my long-term goals.
+
+The day becomes more than just reacting; it’s a moment where I’m forced to confront immediate changes in what I value most.

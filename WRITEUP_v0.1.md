@@ -81,8 +81,8 @@ What we did **not** ship in this hackathon: a PAT-personalised prompt embedding 
 **Project links** (attach in writeup):
 
 - Public GitHub: github.com/xqscora/community-pulse (Apache 2.0)
-- Live Demo (Streamlit Cloud): community-pulse.streamlit.app
-- 3-min video: youtu.be/XXXXXXX
+- Live Demo (Streamlit Cloud): https://community-pulse-cora.streamlit.app/
+- 3-min video: (embedded in submission — silent screencast, captions only)
 - Companion paper (PAT, Frontiers in Psychology, accepted): preprint DOI
 
 **Ollama Special Tech Track justification:** Every LLM call routes through `gemma_bridge.py`, a thin OpenAI SDK wrapper around Ollama. The app runs end-to-end on a single laptop with no internet. We document model swap (`gemma3:4b` → `gemma4:e4b`) as a one-line config change.
